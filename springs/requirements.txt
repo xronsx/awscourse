@@ -1,5 +1,5 @@
 aniso8601==7.0.0
-Django==1.11
+Django==1.11.28
 djangorestframework==3.11.0
 djangorestframework-simplejwt==4.4.0
 graphene==2.1.8
