@@ -1,0 +1,5 @@
+/venv
+spring.pem
+*.pyc
+.vscode/
+.idea/
